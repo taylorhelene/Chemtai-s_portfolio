@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .raise{
-  background-color: #3a3939c5;
+  background-color: #272626c5;
   border-radius: 20px;
 }
 .photo{
@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   background: rgba(0, 0, 0, 0.9);
 }
-#header.header-top .social-links, #header.header-top h2 {
+#header.header-top .social-links, #header.header-top h2 ,#header.header-top .photo {
   display: none;
 }
 #header.header-top h1 {
@@ -316,10 +316,10 @@ h1, h2, h3, h4, h5, h6 {
 section {
   overflow: hidden;
   position: absolute;
-  width: 100%;
+  width: 95%;
   top: 140px;
   bottom: 100%;
-  opacity: 0;
+  opacity: 1;
   transition: ease-in-out 0.4s;
   z-index: 2;
 }
@@ -330,7 +330,7 @@ section.section-show {
   padding-bottom: 45px;
 }
 section .container {
-  background: rgba(0, 0, 0, 0.9);
+  
   padding: 30px;
 }
 @media (max-width: 768px) {
@@ -400,7 +400,10 @@ section .container {
 .about-me .content p:last-child {
   margin-bottom: 0;
 }
-
+.raiseabout{
+  background-color: #272626c5;
+  border-radius: 20px;
+}
 /*--------------------------------------------------------------
 # Counts
 --------------------------------------------------------------*/

@@ -55,18 +55,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 .photo{
   position: absolute;
-  right: 40px;
-  margin: 80px;
+  right: 5%;
+  margin: 10%;
   
 }
 .image{
-  height: 400px;
-  width: 300px;
+  height: 60vh;
+  width: 22vw;
   border-radius: 20px 0 20px 0;
 }
 .shadow{
-  height: 400px;
-  width: 300px;
+  height: 60vh;
+  width: 22vw;
   border-radius: 20px 0 20px 0;
   background-color: #161616;
   margin-top: -120%;

@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 0;
   background: rgba(0, 0, 0, 0.9);
 }
-#header.header-top .social-links, #header.header-top h2 ,#header.header-top .photo {
+#header.header-top .social-links, #header.header-top h2 ,#header.header-top .photo , #header.header-top h1 {
   display: none;
 }
 #header.header-top h1 {

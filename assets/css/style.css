@@ -416,6 +416,7 @@ section .container {
   position: relative;
   text-align: center;
   background: rgba(255, 255, 255, 0.08);
+  border-radius: 4%;
 }
 .counts .count-box i {
   position: absolute;

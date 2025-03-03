@@ -485,6 +485,7 @@ section .container {
   padding: 20px;
   background: rgba(255, 255, 255, 0.08);
   transition: ease-in-out 0.3s;
+  border-radius: 4%;
 }
 .interests .icon-box i {
   font-size: 32px;
@@ -633,6 +634,8 @@ section .container {
   background: rgba(204, 204, 204, 0.1);
   padding: 80px 20px;
   transition: all ease-in-out 0.3s;
+  border-radius: 4%;
+
 }
 .services .icon-box .icon {
   margin: 0 auto;
